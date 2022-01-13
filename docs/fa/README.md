@@ -106,8 +106,9 @@
 
 بدیهی است که در این روش، چالش‌های گوناگونی وجود دارد؛ مانند این‌که توسعه‌دهنده از انجام کار پشیمان شود. در نتیجه‌ی این، باید بستر مناسبی برای این کار در نظر گرفته شود تا از مشکل‌های احتمالی جلوگیری شود. نمونه‌هایی از بسترهای موجود عبارت‌اند از:
 
--   [Open Bugs Bounty](https://bugsbounty.org/)
+-   [IssueHunt](https://issuehunt.io)
 -   [Bountysource](https://www.bountysource.com/)
+-   [Open Bugs Bounty](https://bugsbounty.org/)
 
 #### عیب‌ها
 
@@ -151,8 +152,6 @@
 -   [سیستم‌عامل Elementary OS](https://elementary.io/)
 -   [‌Blender](https://fund.blender.org/)
 -   [فونت وزیر](https://rastikerdar.github.io/vazir-font/)
-
-### پشتیبانی مالی (Sponsoring)
 
 ### فروش نرم‌افزار
 
