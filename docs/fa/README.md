@@ -159,6 +159,15 @@
 
 ### کمک و پشتیبانی شرکت‌ها (*)
 
+در حال حاضر، بسیاری از غول‌هایی چون گوگل، مایکروسافت و فیس‌بوک در توسعه‌ی متن‌باز مشارکت می‌کنند. این مشارکت‌ها، می‌تواند به شکل پشتیبانی، کمک مالی، کمک انسانی، و غیره باشد. در کنار آن، بسیاری از این شرکت‌ها مهد تولد پروژه‌های متن‌باز بسیاری‌اند.
+
+#### نمونه‌ها
+
+-   [فیس‌بوک](https://www.facebook.com/)، سازنده‌ی کتاب‌خانه‌هایی مانند [ری‌اکت](https://github.com/facebook/react) و [زداس‌تی‌دی (zstd)](https://github.com/facebook/zstd) است.
+-   [گوگل](https://opensource.google/)، سازنده‌ی نرم‌افزارهایی مانند [سیستم‌عامل اندروید](http://android.com/)، [زبان برنامه‌نویسی گو](https://go.dev/) و [زبان برنامه‌نویسی دارت](https://dart.dev/) است.
+-   [اینتل](https://opensource.microsoft.com/)، به همراه بسیاری از شرکت‌های دیگر، کارمندانی استخدام کرده است که روی درایورهای متن‌باز لینوکس به صورت مستقیم کار می‌کنند. [^8]
+-   [جت‌برینز](https://www.jetbrains.com/)، به همراه برخی شرکت‌های دیگر، به بنیاد تازه‌تاسیس پی‌اچ‌پی، سالانه ۱۰۰٫۰۰۰ دلار پرداخت می‌کند. [^7]
+
 ### استخدام شرکت متن‌باز بودن
 
 ### فروش برند
@@ -258,3 +267,5 @@
 [^4]: https://lkml.org/lkml/2006/9/25/161
 [^5]: https://www.youtube.com/watch?v=PaKIZ7gJlRU
 [^6]: https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries
+[^7]: https://opencollective.com/jetbrains
+[^8]: https://www.kernel.org/doc/html/latest/process/maintainers.html
