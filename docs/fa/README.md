@@ -140,7 +140,7 @@
 
 یکی از شرایط این پروانه، آن است که اگر بخشی از کد نرم‌افزاری تحت این پروانه باشد، آنگاه کل نرم‌افزار تحت این پروانه خواهد بود.
 
-لینوس توروالدز، جی‌پی‌ال ۲.۰ را عالی می‌داند؛ با این حال، از نسخه‌ی ۳.۰ آن متنفر است [^4][^5].
+لینوس توروالدز، جی‌پی‌ال ۲.۰ را عالی می‌داند [^4]. با این حال، او از نسخه‌ی ۳.۰ آن متنفر است [^5].
 
 #### ال‌جی‌پی‌ال (LGPL)
 
@@ -310,13 +310,13 @@
 
 </div>
 
-[^1]: https://www.gnu.org/licenses/license-recommendations.html#small
-[^2]: https://opensource.google/docs/thirdparty/licenses/#hardware
-[^3]: https://www.apache.org/licenses/LICENSE-2.0#patent
-[^4]: https://lkml.org/lkml/2006/9/25/161
-[^5]: https://www.youtube.com/watch?v=PaKIZ7gJlRU
-[^6]: https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries
-[^7]: https://opencollective.com/jetbrains
-[^8]: https://www.kernel.org/doc/html/latest/process/maintainers.html
+[^1]: GNU. (n.d.). *How to Choose a License for Your Own Work*. <https://www.gnu.org/licenses/license-recommendations.html#small>
+[^2]: Google LLC. (n.d.). *Licenses*. <https://opensource.google/docs/thirdparty/licenses/#hardware>
+[^3]: The Apache Software Foundation. (2004). *Apache License, Version 2.0*. <https://www.apache.org/licenses/LICENSE-2.0#patent>
+[^4]: Linus Torvalds. (2006, September 25). GPLv3 Position Statement. *The unofficial Linux Kernel Mailing List archive*. <https://lkml.org/lkml/2006/9/25/161>
+[^5]: TFiR. (2014, September 4). *Linus Torvalds says GPL v3 violates everything that GPLv2 stood for* \[Video\]. YouTube. <https://www.youtube.com/watch?v=PaKIZ7gJlRU>
+[^6]: Scott G. (2007, October 3). Releasing the Source Code for the .NET Framework Libraries. *ScottGu's Blog*. <https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries>
+[^7]: Roman P. (2021, November 22). The New Life of PHP – The PHP Foundation. *The PhpStorm Blog*. <https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/>
+[^8]: The Linux Kernel documentation. (n.d.). *List of maintainers and how to submit kernel changes*. <https://www.kernel.org/doc/html/latest/process/maintainers.html>
 [^9]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report; 9th Annual Report on Critical Skills, Hiring Trends, and Education*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
-[^10]: Joey S. (2019, May 17). Exclusive: The Official Ubuntu Shop Has Closed Down. *OMG! Ubuntu!*. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
+[^10]: Joey S. (2019, May 17). *Exclusive: The Official Ubuntu Shop Has Closed Down*. OMG! Ubuntu!. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
