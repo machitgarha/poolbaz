@@ -215,7 +215,13 @@
 
 ### فروش تجهیزات نام‌دار
 
+برخی از گروه‌های نرم‌افزاری (شامل بنیادها و شرکت‌ها)، تجهیزاتی تولید می‌کنند که نام و یا نشان خود را بر روی آن‌ها ثبت می‌نمایند. یکی از معروف‌ترین نمونه‌های آن، لباس‌هایی است که روی آن، لوگوی یک بنیاد روی آن ثبت شده است. بدین‌وسیله، هم به صورت غیرمستقیم حمایت دریافت می‌کنند، و هم احتمالا خود را در قالب آن تجهیزات، تبلیغ می‌نمایند.
 
+اگرچه این مورد می‌تواند کمک‌کننده باشد، اما بدیهی است که تکیه‌ی اصلی نمی‌تواند بر آن باشد؛ چراکه غالبا هزینه‌های توسعه و نگه‌داری و پیش‌بری یک نرم‌افزار یا یک گروه نرم‌افزاری، بسیار بیش از این است.
+
+#### نمونه‌ها
+
+-   فروشگاه کنونیکال (تعطیل‌شده) [^10]
 
 ### تعیین جایزه (bounty)
 
@@ -313,3 +319,4 @@
 [^7]: https://opencollective.com/jetbrains
 [^8]: https://www.kernel.org/doc/html/latest/process/maintainers.html
 [^9]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report; 9th Annual Report on Critical Skills, Hiring Trends, and Education*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
+[^10]: Joey S. (2019, May 17). Exclusive: The Official Ubuntu Shop Has Closed Down. *OMG! Ubuntu!*. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
