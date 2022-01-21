@@ -243,6 +243,18 @@
 
 ### تبلیغات
 
+نه تنها در این‌جا، بلکه در بسیاری از زمینه‌های دیگر، تبلیغات از گسترده‌ترین روش‌های درآمدزایی است.
+
+البته، از آن‌جایی که کد نرم‌افزار آزاد است، کاربر، خود یا به کمک دیگران، می‌تواند با ویرایش متن کد، بخش تبلیغات را از نرم‌افزار حذف کند. البته، این، بستگی به شیوه‌ی تبلیغات و شرایط آن دارد. اما، در نهایت، احتمال چنین کاری کم است؛ چراکه عموم کاربران با چنین چیزهایی آشنا نیستند؛ و حتی به فرض آشنایی، بسیاری از افراد فنی نیز از انجام چنین کاری، به دلیل زمان‌بر و هزینه‌بر بودن آن، صرف‌نظر می‌کنند.
+
+#### عیب‌ها
+
+-   نارضایتی کاربران (بسته به شیوه‌ی تبلیغات)
+
+#### نمونه‌ها
+
+-   شرکت موزیلا، سال‌های ۲۰۱۷ و ۲۰۱۸ مبلغی در مقیاس میلیون دلار از موتورهای جست‌وجو دریافت کرده است [^11]؛ که عمده‌ی آن، پرداخت گوگل برای موتور جست‌وجوی پیش‌فرض بودن در فایرفاکس است. 
+
 ### متن‌باز تاخیری
 
 ### پرداخت درون‌برنامه‌ای
@@ -313,10 +325,11 @@
 [^1]: GNU. (n.d.). *How to Choose a License for Your Own Work*. <https://www.gnu.org/licenses/license-recommendations.html#small>
 [^2]: Google LLC. (n.d.). *Licenses*. <https://opensource.google/docs/thirdparty/licenses/#hardware>
 [^3]: The Apache Software Foundation. (2004). *Apache License, Version 2.0*. <https://www.apache.org/licenses/LICENSE-2.0#patent>
-[^4]: Linus Torvalds. (2006, September 25). GPLv3 Position Statement. *The unofficial Linux Kernel Mailing List archive*. <https://lkml.org/lkml/2006/9/25/161>
+[^4]: Torvalds, L. (2006, September 25). GPLv3 Position Statement. *The unofficial Linux Kernel Mailing List archive*. <https://lkml.org/lkml/2006/9/25/161>
 [^5]: TFiR. (2014, September 4). *Linus Torvalds says GPL v3 violates everything that GPLv2 stood for* \[Video\]. YouTube. <https://www.youtube.com/watch?v=PaKIZ7gJlRU>
-[^6]: Scott G. (2007, October 3). Releasing the Source Code for the .NET Framework Libraries. *ScottGu's Blog*. <https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries>
-[^7]: Roman P. (2021, November 22). The New Life of PHP – The PHP Foundation. *The PhpStorm Blog*. <https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/>
+[^6]: Guthrie, S. (2007, October 3). Releasing the Source Code for the .NET Framework Libraries. *ScottGu's Blog*. <https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries>
+[^7]: Pronskiy, R. (2021, November 22). The New Life of PHP – The PHP Foundation. *The PhpStorm Blog*. <https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/>
 [^8]: The Linux Kernel documentation. (n.d.). *List of maintainers and how to submit kernel changes*. <https://www.kernel.org/doc/html/latest/process/maintainers.html>
-[^9]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report; 9th Annual Report on Critical Skills, Hiring Trends, and Education*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
-[^10]: Joey S. (2019, May 17). *Exclusive: The Official Ubuntu Shop Has Closed Down*. OMG! Ubuntu!. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
+[^9]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report (Report No. 9)*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
+[^10]: Sneddon, J. (2019, May 17). *Exclusive: The Official Ubuntu Shop Has Closed Down*. OMG! Ubuntu!. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
+[^11]: Mozilla Foundation, Subsidiary. (2018). *Independent Auditors’ Report and Consolidated Financial Statements*. <https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf>
