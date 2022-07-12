@@ -2,7 +2,7 @@
 
 # شیوه‌های درآمدزایی در نرم‌افزارهای متن‌باز و آزاد
 
-**نکته:** در این‌جا، اگرچه گاهی هر دو عبارت متن‌باز و آزاد استفاده می‌شود، اما میان این دو مفهوم در این نوشته، تفکیکی قائل نیستیم.
+**نکته:** در این نوشته، اگرچه گاهی هر دو عبارتِ متن‌باز و آزاد استفاده می‌شود، اما میان این دو مفهوم تفکیکی قائل نیستیم.
 
 ## سرآغاز
 
@@ -131,9 +131,9 @@
 
 #### آپاچی ۲.۰ (APL 2.0)
 
-پروانه‌ای آسان‌گیر که کاربرد زیادی دارد. بنیاد نرم‌افزار آزاد، برای نرم‌افزارهای کوتاه (زیر ۳۰۰ خط) این پروانه را توصیه می‌کند [^1]. گوگل نیز، ترجیح می‌دهد از این پروانه برای تولیدهای متن‌بازی نرم‌افزاری و حتی سخت‌افزاری خود استفاده کند [^2].
+پروانه‌ای آسان‌گیر که کاربرد زیادی دارد. بنیاد نرم‌افزار آزاد، برای نرم‌افزارهای کوتاه (زیر ۳۰۰ خط) این پروانه را توصیه می‌کند [^gnu-recommends-apache]. گوگل نیز، ترجیح می‌دهد از این پروانه برای تولیدهای متن‌بازی نرم‌افزاری و حتی سخت‌افزاری خود استفاده کند [^google-uses-apache].
 
-در این پروانه، بند ویژه‌ای برای امتیازنامه‌ها (patent) در نظر گرفته شده است [^3]. این بند، بیان می‌دارد که، مشارکت‌کنندگان و توسعه‌دهندگان نرم‌افزار، بابت حق ثبت اختراعی که در کد از آن استفاده شده است، از استفاده‌کنندگان شکایت به عمل آورند.
+در این پروانه، بند ویژه‌ای برای امتیازنامه‌ها (patent) در نظر گرفته شده است [^apache-patent-clause]. این بند، بیان می‌دارد که، مشارکت‌کنندگان و توسعه‌دهندگان نرم‌افزار، بابت حق ثبت اختراعی که در کد از آن استفاده شده است، از استفاده‌کنندگان شکایت به عمل آورند.
 
 ### خانواده‌ی پروانه‌ی عمومی همگانی گنو
 
@@ -147,7 +147,7 @@
 
 یکی از شرایط این پروانه، آن است که اگر بخشی از کد نرم‌افزاری تحت این پروانه باشد، آنگاه کل نرم‌افزار تحت این پروانه خواهد بود.
 
-لینوس توروالدز، جی‌پی‌ال ۲.۰ را عالی می‌داند [^4]. با این حال، او از نسخه‌ی ۳.۰ آن متنفر است [^5].
+لینوس توروالدز، جی‌پی‌ال ۲.۰ را عالی می‌داند [^torvalds-gpl-2.0-is-great]. با این حال، او از نسخه‌ی ۳.۰ آن متنفر است [^torvalds-hates-gpl-3.0].
 
 #### ال‌جی‌پی‌ال (LGPL)
 
@@ -181,7 +181,7 @@
 
 #### نمونه‌ها
 
--   کتاب‌خانه‌ی .NET [^6]
+-   کتاب‌خانه‌ی .NET [^dotnet-open-sourced]
 
 ### تاسیس یک شرکت یا بنیاد (*)
 
@@ -203,8 +203,8 @@
 
 -   [فیس‌بوک](https://www.facebook.com/)، سازنده‌ی کتاب‌خانه‌هایی مانند [ری‌اکت](https://github.com/facebook/react) و [زداس‌تی‌دی (zstd)](https://github.com/facebook/zstd) است.
 -   [گوگل](https://opensource.google/)، سازنده‌ی نرم‌افزارهایی مانند [سیستم‌عامل اندروید](http://android.com/)، [زبان برنامه‌نویسی گو](https://go.dev/) و [زبان برنامه‌نویسی دارت](https://dart.dev/) است.
--   [اینتل](https://opensource.microsoft.com/)، به همراه بسیاری از شرکت‌های دیگر، کارمندانی استخدام کرده است که روی درایورهای متن‌باز لینوکس به صورت مستقیم کار می‌کنند. [^8]
--   [جت‌برینز](https://www.jetbrains.com/)، به همراه برخی شرکت‌های دیگر، به بنیاد تازه‌تاسیس پی‌اچ‌پی، سالانه ۱۰۰٫۰۰۰ دلار پرداخت می‌کند. [^7]
+-   اینتل، به همراه بسیاری از شرکت‌های دیگر، کارمندانی استخدام کرده است که روی درایورهای متن‌باز لینوکس به صورت مستقیم کار می‌کنند. [^intel-kernel-maintainers]
+-   [جت‌برینز](https://www.jetbrains.com/)، به همراه برخی شرکت‌های دیگر، به بنیاد تازه‌تاسیس پی‌اچ‌پی، سالانه ۱۰۰٫۰۰۰ دلار پرداخت می‌کند. [^jetbrains-php-foundation]
 
 ### متن‌باز تاخیری (*)
 
@@ -216,7 +216,7 @@
 
 ### کاریابی (*)
 
-«۹۷٪ استخدام‌کنندگان می‌گویند استخدام استعداد متن‌باز در سال ۲۰۲۱ یک اولویت است». [^9]
+«۹۷٪ استخدام‌کنندگان می‌گویند استخدام استعداد متن‌باز در سال ۲۰۲۱ یک اولویت است». [^open-source-talent-hiring]
 
 فردی که در انجمن‌ها و پروژه‌های متن‌باز فعالیت مناسبی داشته باشد، از دیگر افراد، بخت بیش‌تری برای استخدام در شرکت‌ها (از هر نوع) خواهد داشت. در نتیجه، افراد می‌توانند همزمان در حرکت متن‌باز مشارکت داشته باشند، و همزمان جای پای خود را برای استخدام در شرکت‌ها، سفت کنند.
 
@@ -236,7 +236,7 @@
 
 #### نمونه‌ها
 
--   فروشگاه کنونیکال (تعطیل‌شده) [^10]
+-   فروشگاه کنونیکال (تعطیل‌شده) [^canonical-shop-closed]
 
 ### تعیین جایزه
 
@@ -268,7 +268,7 @@
 
 #### نمونه‌ها
 
--   شرکت موزیلا، سال‌های ۲۰۱۷ و ۲۰۱۸ مبلغی در مقیاس میلیون دلار از موتورهای جست‌وجو دریافت کرده است [^11]؛ که عمده‌ی آن، پرداخت گوگل برای موتور جست‌وجوی پیش‌فرض بودن در فایرفاکس است.
+-   شرکت موزیلا، سال‌های ۲۰۱۷ و ۲۰۱۸ مبلغی در مقیاس میلیون دلار از موتورهای جست‌وجو دریافت کرده است [^firefox-search-engine-income]؛ که عمده‌ی آن، پرداخت گوگل برای موتور جست‌وجوی پیش‌فرض بودن در فایرفاکس است.
 
 ### پرداخت درون‌برنامه‌ای
 
@@ -403,14 +403,14 @@
 
 </div>
 
-[^1]: GNU. (n.d.). *How to Choose a License for Your Own Work*. <https://www.gnu.org/licenses/license-recommendations.html#small>
-[^2]: Google LLC. (n.d.). *Licenses*. <https://opensource.google/docs/thirdparty/licenses/#hardware>
-[^3]: The Apache Software Foundation. (2004). *Apache License, Version 2.0*. <https://www.apache.org/licenses/LICENSE-2.0#patent>
-[^4]: Torvalds, L. (2006, September 25). GPLv3 Position Statement. *The unofficial Linux Kernel Mailing List archive*. <https://lkml.org/lkml/2006/9/25/161>
-[^5]: TFiR. (2014, September 4). *Linus Torvalds says GPL v3 violates everything that GPLv2 stood for* \[Video\]. YouTube. <https://www.youtube.com/watch?v=PaKIZ7gJlRU>
-[^6]: Guthrie, S. (2007, October 3). Releasing the Source Code for the .NET Framework Libraries. *ScottGu's Blog*. <https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries>
-[^7]: Pronskiy, R. (2021, November 22). The New Life of PHP – The PHP Foundation. *The PhpStorm Blog*. <https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/>
-[^8]: The Linux Kernel documentation. (n.d.). *List of maintainers and how to submit kernel changes*. <https://www.kernel.org/doc/html/latest/process/maintainers.html>
-[^9]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report (Report No. 9)*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
-[^10]: Sneddon, J. (2019, May 17). *Exclusive: The Official Ubuntu Shop Has Closed Down*. OMG! Ubuntu!. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
-[^11]: Mozilla Foundation, Subsidiary. (2018). *Independent Auditors’ Report and Consolidated Financial Statements*. <https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf>
+[^gnu-recommends-apache]: GNU. (n.d.). *How to Choose a License for Your Own Work*. <https://www.gnu.org/licenses/license-recommendations.html#small>
+[^google-uses-apache]: Google LLC. (n.d.). *Licenses*. <https://opensource.google/docs/thirdparty/licenses/#hardware>
+[^apache-patent-clause]: The Apache Software Foundation. (2004). *Apache License, Version 2.0*. <https://www.apache.org/licenses/LICENSE-2.0#patent>
+[^torvalds-gpl-2.0-is-great]: Torvalds, L. (2006, September 25). GPLv3 Position Statement. *The unofficial Linux Kernel Mailing List archive*. <https://lkml.org/lkml/2006/9/25/161>
+[^torvalds-hates-gpl-3.0]: TFiR. (2014, September 4). *Linus Torvalds says GPL v3 violates everything that GPLv2 stood for* \[Video\]. YouTube. <https://www.youtube.com/watch?v=PaKIZ7gJlRU>
+[^dotnet-open-sourced]: Guthrie, S. (2007, October 3). Releasing the Source Code for the .NET Framework Libraries. *ScottGu's Blog*. <https://weblogs.asp.net/scottgu/releasing-the-source-code-for-the-net-framework-libraries>
+[^jetbrains-php-foundation]: Pronskiy, R. (2021, November 22). The New Life of PHP – The PHP Foundation. *The PhpStorm Blog*. <https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/>
+[^intel-kernel-maintainers]: The Linux Kernel documentation. (n.d.). *List of maintainers and how to submit kernel changes*. <https://www.kernel.org/doc/html/latest/process/maintainers.html#intel-drm-drivers-excluding-poulsbo-moorestown-and-derivative-chipsets>
+[^open-source-talent-hiring]: The Linux Foundation Research, edX. (2021). *The 2021 Open Source Jobs Report (Report No. 9)*. <https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf>
+[^canonical-shop-closed]: Sneddon, J. (2019, May 17). *Exclusive: The Official Ubuntu Shop Has Closed Down*. OMG! Ubuntu!. <https://www.omgubuntu.co.uk/2019/05/canonical-shop-ubuntu-closed>
+[^firefox-search-engine-income]: Mozilla Foundation, Subsidiary. (2018). *Independent Auditors’ Report and Consolidated Financial Statements*. <https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf>
